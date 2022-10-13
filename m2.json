@@ -22,7 +22,7 @@
 {"key":"csp_DiDuan","name":"🐞低端影视","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_SP360","name":"🐞360视频","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1},  
 
-{"key":"AliPS","name":"😻盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext": "81461f2e9d0b4ffb86612db403824b8a"},
+{"key":"AliPS","name":"😻盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://ltxxjs.github.io/token.txt"},
 {"key":"😺csp_Yiso","name":"易搜","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"81461f2e9d0b4ffb86612db403824b8a"},
 {"key":"csp_AliPS","name":"💿云盘搜(仅搜索)","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":1,"ext":"81461f2e9d0b4ffb86612db403824b8a"}, 
 {"key":"csp_FindZY","name":"💡找资源(仅搜索)","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,"ext":"81461f2e9d0b4ffb86612db403824b8a"}, 
