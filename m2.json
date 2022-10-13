@@ -64,6 +64,38 @@
    "ext": "http://cms.nokia.press/admin/view/玄天.js"
   },
   {
+   "key": "dr_18av",
+   "name": "18av(drpy)",
+   "type": 3,
+   "api": "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
+   "searchable": 2,
+   "quickSearch": 0,
+   "filterable": 0,
+   "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/txt/js/18/18av.js"
+  },     
+  {
+   "key": "dr_Missav",
+   "name": "Missav(drpy)",
+   "type": 3,
+   "api": "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
+   "searchable": 2,
+   "quickSearch": 0,
+   "filterable": 0,
+   "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/txt/js/18/Missav.js"
+  }, 
+  {
+   "key": "dr_朱古力",
+   "name": "朱古力(drpy)",
+   "type": 3,
+   "api": "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
+   "searchable": 2,
+   "quickSearch": 0,
+   "filterable": 0,
+   "ext": "https://gitcode.net/qq_32394351/dr_py/-/blob/master/txt/js/18/%E6%9C%B1%E5%8F%A4%E5%8A%9B.js"
+  },       
+       
+       
+ {
    "key": "dr_玩偶姐姐",
    "name": "玩偶姐姐(drpy)",
    "type": 3,
