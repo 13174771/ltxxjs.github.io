@@ -42,7 +42,37 @@
 {"key":"csp_biubiu_斗鱼","name":"🐠斗鱼(XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/ltxxjs/Boxforcfsxy/raw/branch/main/BoxXb/douyu.json"},
 {"key":"csp_appysv2_小熊影视","name":"小熊影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://xxtv.lanrentk.cc/api.php/iptv/vod/"},
 
-//20221012新增      
+//20221012新增     
+{
+   "key": "dr_猫了个咪",
+   "name": "猫了个咪(drpy)",
+   "type": 3,
+   "api": "http://cms.nokia.press/libs/drpy.min.js",
+   "searchable": 0,
+   "quickSearch": 0,
+   "filterable": 0,
+   "ext": "http://cms.nokia.press/admin/view/猫了个咪.js"
+  },
+  {
+   "key": "dr_玄天",
+   "name": "玄天(drpy)",
+   "type": 3,
+   "api": "http://cms.nokia.press/libs/drpy.min.js",
+   "searchable": 2,
+   "quickSearch": 0,
+   "filterable": 0,
+   "ext": "http://cms.nokia.press/admin/view/玄天.js"
+  },
+  {
+   "key": "dr_玩偶姐姐",
+   "name": "玩偶姐姐(drpy)",
+   "type": 3,
+   "api": "http://cms.nokia.press/libs/drpy.min.js",
+   "searchable": 0,
+   "quickSearch": 0,
+   "filterable": 0,
+   "ext": "http://cms.nokia.press/admin/view/玩偶姐姐.js"
+  },       
 {"key":"多多资源","name":"多多资源(切)","type":1,"api":"https://www.ddzyz1.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"易看资源","name":"易看资源(切)","type":1,"api":"https://api.yikanapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"极速","name":"极速采集","type":1,"api":"https://www.ddzyz1.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0},
