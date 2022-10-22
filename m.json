@@ -3,7 +3,8 @@
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 
-"spider":"https://ghproxy.com/https://github.com/ltxxjs/box2022-1/raw/main/jar/0928.jar;md5;6b3da8e0a11b4ef8333a311c29c55dcf",
+//"spider":"https://ghproxy.com/https://github.com/ltxxjs/box2022-1/raw/main/jar/0928.jar;md5;6b3da8e0a11b4ef8333a311c29c55dcf",
+"spider":"https://ghproxy.com/https://github.com/ltxxjs/box2022-1/raw/main/jar/1008-1.jar",
 //"spider":"https://dxawi.github.io/1/jar/cs.jar;md5;5a7488362fc669c8f3e41dd094884948",
 //"spider":"https://ghproxy.com/https://github.com/ltxxjs/box2022-1/raw/main/jar/1019.jar",
 //"spider":"https://ghproxy.com/https://github.com/ltxxjs/box2022-1/blob/main/jar/XC0926w.jar;md5;fb5c6c31a4c9fd39a5a61b9dd3699220",
@@ -200,7 +201,7 @@ rules": [
 {"key":"t4_搜片","name":"📡搜片(T4)","type": 4,"api": "https://t4.secan.icu/vod?sites=all&timeout=7","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"t4_合集","name":"📡合集(T4)","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=10",  "searchable": 1,"quickSearch":1,"filterable":0},
 {"key":"t4_聚合","name":"📡聚合(T4)","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=5","searchable":1,"quickSearch":1,"filterable":1}, 
-{"key":"csp_Upyunso","name":"☁️Up云搜","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":1,"ext": "26496fd573ac45d5b3b3f77799fc126f","jar":"https://ghproxy.com/https://github.com/ltxxjs/box2022-1/raw/main/jar/新神器.jar"},  
+{"key":"csp_Upyunso","name":"☁️Up云搜","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://gitea.com/Yoursmile99/Yoursmile/raw/branch/main/token.txt","jar":"https://ghproxy.com/https://github.com/ltxxjs/box2022-1/raw/main/jar/新神器.jar"},  
 {"key":"AliPS","name":"😻盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://gitea.com/Yoursmile99/Yoursmile/raw/branch/main/token.txt","jar":"https://ghproxy.com/https://github.com/ltxxjs/box2022-1/raw/main/jar/新神器.jar"},
 {"key":"😺csp_Yiso","name":"易搜","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/Yoursmile99/Yoursmile/raw/branch/main/token.txt","jar":"https://ghproxy.com/https://github.com/ltxxjs/box2022-1/raw/main/jar/新神器.jar"},
 {"key":"csp_AliPS","name":"💿云盘搜(仅搜索)","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/Yoursmile99/Yoursmile/raw/branch/main/token.txt","jar":"https://ghproxy.com/https://github.com/ltxxjs/box2022-1/raw/main/jar/新神器.jar"}, 
