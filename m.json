@@ -169,7 +169,7 @@ rules": [
 {"key":"csp_xp_酷奇mv","name":"📺酷奇MV","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/ltxxjs/liu673cn_box/main/sub/MeowXP/酷奇MV.json"},
 {"key":"csp_QB_17kan","name":"⚽17看球","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/ltxxjs/liu673cn_box/main/sub/ext/17看球.json"},
 {"key":"csp_xp_球迷直播","name":"🏀dj看球","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/ltxxjs/liu673cn_box/main/sub/ext/dj看球.json"},
-
+{"key":"csp_bendi","name":"本地文件（仅能播放视频）","type":3,"api":"csp_LocalFile","searchable":1,"quickSearch":0,"filterable":1,"type_flag":1},
 {key:'Bili',name:'🐞哔哩哔哩',type:3,api:'csp_BBB',searchable:0,quickSearch:0,filterable:1,ext:'https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/eikuz5rz.json'},
 {key:'Bili2',name:'🐞哔哩哔哩ZY',type:3,api:'csp_Bili',searchable:0,quickSearch:0,filterable:1,ext:'https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/msq9adns.json'},
 {key:'Bili',name:'🅱️哔哩套餐',type:3,api:'csp_Bili',searchale:0,quickSearch:0,filterable:1,ext:'https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/h1wdkafv.json'},
