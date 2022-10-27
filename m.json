@@ -201,7 +201,7 @@ rules": [
 {"key":"t4_搜片","name":"📡搜片(T4)","type": 4,"api": "https://t4.secan.icu/vod?sites=all&timeout=7","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"t4_合集","name":"📡合集(T4)","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=10",  "searchable": 1,"quickSearch":1,"filterable":0},
 {"key":"t4_聚合","name":"📡聚合(T4)","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=5","searchable":1,"quickSearch":1,"filterable":1}, 
-{"key":"csp_Upyunso","name":"☁️Up云搜","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://gitea.com/Yoursmile999/Yoursmile/raw/branch/main/token.txt"},  
+{"key":"csp_Upyunso","name":"☁️Up云搜","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://agit.ai/ltxxjs/snow/raw/branch/master/token20221027.txt"},  
 {"key":"AliPS","name":"😻盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext": "daae36603bcd490681bdd8d03940783a"},
 {"key":"😺csp_Yiso","name":"易搜1","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"daae36603bcd490681bdd8d03940783a"},
 {"key":"😺csp_Yisou","name":"易搜2","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"daae36603bcd490681bdd8d03940783a"},
