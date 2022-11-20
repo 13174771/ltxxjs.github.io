@@ -17,6 +17,7 @@ rules": [
 "sites": [
 //{"key":"我的豆瓣","name":"🍀我的豆瓣","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=&douban=262163036","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"t4豆瓣","name":"🅱豆瓣荐片┃首页","type":4,"api":"http://t4.ganggang.live:3812/vod","searchable": 0,"quickSearch": 0,"filterable": 0},
+{"key":"t4豆瓣","name":"🅱豆瓣荐片┃首页","type":4,"api":"http://t4.ganggang.live:3812/vod","searchable": 0,"quickSearch": 0,"filterable": 0},
 {key:'douban',name:'豆瓣备用',type:4,api:'https://t4.secan.icu/vod?sites=voflix&timeout=7',searchable:1,quickSearch:1,filterable:1},
 {"key":"我的豆瓣","name":"🍀我的豆瓣","type":4,"api":"http://top.fuqizhishi.com/vod","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_Kunyu77","name":"🐞酷云七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
