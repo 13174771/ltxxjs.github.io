@@ -809,7 +809,7 @@ rules": [
   {"host":"*", "rule":["/m3u8.php", "path="]},
   {"host":"zjmiao.com", "rule":["play.videomiao.vip/API.php", "time=", "key=", "path="]}
 ],		
-	
+"hotSearch": [{"name": "mobilesearch","request": {"method": "GET","header": [{"key": "Referer","value": "http://101.34.67.237"}],"url": {"raw": "http://101.34.67.237/hotsugg?t={time}"}},"response": {"result": "$.data","data": [{"key": "keyword","value": "title"}]}}],	
 "lives": [
 {
 "group": "redirect",
@@ -819,12 +819,89 @@ rules": [
 "urls": [
 //"proxy://do=live&type=txt&ext=aHR0cDovLzl4aTRvLnRrL3N1Yi9teXR2LnR4dA=="
 //"proxy://do=live&type=txt&ext=aHR0cHM6Ly9saXVjbi5jYy9ib3gvc3ViL2xpdmUvdHYudHh0"
-//本次采用的livetv地址https://github.91chi.fun//https://raw.githubusercontent.com/ltxxjs/box2022-1/main/tv/20220828.txt
-"proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRodWIuOTFjaGkuZnVuLy9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vbHR4eGpzL2JveDIwMjItMS9tYWluL3R2LzIwMjIwODI4LnR4dA=="
+//本次采用的livetv地址https://xn--m7r412advb92j21st65a.tk/live.txt
+"proxy://do=live&type=txt&ext=aHR0cHM6Ly94bi0tbTdyNDEyYWR2YjkyajIxc3Q2NWEudGsvbGl2ZS50eHQ="
 //"proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vbHR4eGpzL3RpbmdoYW8vcmF3L2JyYW5jaC9tYWluL1RoZVRWL2xpdmUyMDIyMDgxMC50eHQ="
 //"proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vbHR4eGpzL2JveDIwMjItMS9tYWluL3R2LzIwMjIwODI4LnR4dA=="
 ]}]}],
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
+"sniffer": {
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.27",
+        "isVideoFormat": "http((?!http).){26,}\\.(m3u8|mp4|flv|avi|mkv|wmv|mpg|mpeg|mov|ts|3gp|rm|rmvb|asf|m4a|mp3|wma)",
+        "custom": [
+            {
+                "url": "/Cloud/Down/AliCloud/",
+                "mimeType": "text/html",
+                "encoding": "utf-8",
+                "header": {
+                    "Referer": "https://zxzj.vip/"
+                }
+            },
+            {
+                "url": "ysting.ysxs8.vip",
+                "mimeType": "text/html",
+                "encoding": "utf-8",
+                "header": {
+                    "Referer": "http://ysting.ysxs8.vip:81"
+                }
+            }
+        ]
+    },
+    "recommend": [
+        {
+            "name": "豆瓣推荐",
+            "request": {
+                "method": "GET",
+                "header": [
+                    {
+                        "key": "Referer",
+                        "value": "https://movie.douban.com/"
+                    }
+                ],
+                "url": {
+                    "raw": "https://movie.douban.com/j/new_search_subjects?sort=U&range=0,10&tags=&playable=1&start=0&year_range=2022,2022"
+                }
+            },
+            "response": {
+                "result": "$.data",
+                "data": [
+                    {
+                        "key": "name",
+                        "value": "title"
+                    },
+                    {
+                        "key": "note",
+                        "value": "rate"
+                    },
+                    {
+                        "key": "pic",
+                        "value": "cover"
+                    }
+                ]
+            },
+            "expires": "86400"
+        }
+    ],
+    "rating": [
+        {
+            "name": "rating",
+            "request": {
+                "method": "GET",
+                "url": {
+                    "raw": "https://api.wmdb.tv/api/v1/movie/search?q={name}&limit=1"
+                }
+            },
+            "response": {
+                "result": "this",
+                "data": [
+                    {
+                        "key": "rating",
+                        "value": "doubanRating"
+                    }
+                ]
+            }
+        }
+    ],
 "ijk":[
 {"group":"软解码","options":[
 {"category":4,"name":"opensles","value":"0"},
