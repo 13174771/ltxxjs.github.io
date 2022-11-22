@@ -46,7 +46,7 @@ rules": [
 {"key":"csp_360","name":"360TV(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_LiteApple","name":"🍎小苹果HD","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_Kmys","name":"🔥酷猫影视(SP)","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_SP293","name":"🔥293视频(SP)","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1"jar":"https://ghproxy.com/https://github.com/ltxxjs/box2022-1/raw/main/jar/1008-1.jar""},
+{"key":"csp_SP293","name":"🔥293视频(SP)","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1","jar":"https://ghproxy.com/https://github.com/ltxxjs/box2022-1/raw/main/jar/1008-1.jar"},
 {"key":"csp_Kuaikan","name":"🔥快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Xxys","name":"🔥小熊影院(SP)","type": 3,"api": "csp_Xxys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_3EDY","name":"🔥3E飘花(SP)","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1},
