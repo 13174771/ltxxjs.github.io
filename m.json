@@ -2,7 +2,7 @@
 //https://github.91chi.fun//https://raw.githubusercontent.com/ltxxjs/box2022-1/main/m2.json
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
-"spider":"https://agit.ai/ltxxjs/snow/raw/branch/master/jar/甜蜜11201.jar",
+"spider":"https://agit.ai/ltxxjs/snow/raw/branch/master/jar/xo1127.jar;md5;e64d01f763deb1c62a01f336da8d0d59",
 "sites": [
 {"key":"t4public","name":"小军推荐","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=https://agit.ai/ltxxjs/snow/raw/branch/master/token20221027.txt&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"世界杯","name":"世界杯","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8e3aefcba838d8dc5102ac786719d837","jar":"https://agit.ai/ltxxjs/snow/raw/branch/master/jar/cs1128.jar;md5;1d568d169a05f15306eedde64c53c0c6"},
