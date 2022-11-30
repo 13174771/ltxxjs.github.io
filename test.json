@@ -101,15 +101,8 @@
 {"key":"drpy_js_吸瓜","name":"吸瓜","type" : 3,"api" : "https://agit.ai/ltxxjs/dr_py/raw/branch/master/libs/drpy.js","ext" : "https://agit.ai/ltxxjs/dr_py/raw/branch/master/txt/js/18/吸瓜.js"},
 {"key":"drpy_js_朱古力","name":"朱古力","type" : 3,"api" : "https://agit.ai/ltxxjs/dr_py/raw/branch/master/libs/drpy.js","ext" : "https://agit.ai/ltxxjs/dr_py/raw/branch/master/txt/js/18/朱古力.js"},
 {"key":"drpy_js_玩偶姐姐","name":"玩偶姐姐","type" : 3,"api" : "https://agit.ai/ltxxjs/dr_py/raw/branch/master/libs/drpy.js","ext" : "https://agit.ai/ltxxjs/dr_py/raw/branch/master/txt/js/18/玩偶姐姐.js"},
-	
-{"key": "drpy_js_1080P","name": "1080Phao","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/1080P.js"},
-    {
-      "key": "drpy_js_AnFuns",
-      "name": "AnFuns[DRPY]",
-      "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
-      "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/AnFuns.js"
-    },
+{"key":"drpy_js_1080P","name": "1080Phao","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/1080P.js"},
+{"key": "drpy_js_AnFuns","name": "AnFuns[DRPY]","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/AnFuns.js"},
     {
       "key": "drpy_js_007影视",
       "name": "007影视[DRPY]",
