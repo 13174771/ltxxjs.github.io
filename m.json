@@ -3,6 +3,7 @@
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 "spider":"https://ghproxy.com/https://github.com/ltxxjs/box2022-1/raw/main/jar/xo20221202.jar;md5;d94a41b91730dff6c425c321ab14fbdb",
+	
 "sites": [
 {"key":"世界杯","name":"和小军一起看","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8e3aefcba838d8dc5102ac786719d837","jar":"https://ghproxy.com/https://github.com/ltxxjs/box2022-1/raw/main/jar/cs12022.jar;md5;a32090dea82b42bad7393ae97ff2607b"},
 {key:'douban',name:'豆瓣推荐',type:4,api:'http://t4.ganggang.live:3812/vod',searchable:0,quickSearch:0,filterable:1},
