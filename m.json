@@ -70,7 +70,7 @@
 
 //
 
-{"key":"csp_app_天空TV","name":"🐌天空TV","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://tv.tkys.tv/api.php/iptv/vod/"},
+{"key":"csp_app_天空TV","name":"🐌天空TV","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://tv.tkys.tv/api.php/iptv/vod/","jar":"https://ghproxy.com/https://github.com/ltxxjs/box2022-1/raw/main/jar/ts1224.jar;md5;502064ce3bb3767fe070ed4aaac27083"},
 {"key":"csp_app_1080KK","name":"🐌1080KK","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://123.250idc.com/mogai_api.php/v1.vod"},
 {"key":"csp_app_米来影视","name":"🐌米来影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://42.51.37.161:2346/api.php/iptv/vod/"},
 {"key":"csp_app_爱酷影视","name": "🐌爱酷影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.zhanlangbu.com/ruifenglb_api.php/v1.vod"},
